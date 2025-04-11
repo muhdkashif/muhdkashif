@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Muhammad Kashif
 
 🚀 Full Stack Developer | ERP & POS Expert | Freelance Consultant  
 💼 24+ Years of Experience | Custom Business Applications | .NET | C# | SQL Server | React.js
@@ -43,5 +43,5 @@ I'm available for freelance work. Let's collaborate on:
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhdkashif&show_icons=true&theme=radical)
 
