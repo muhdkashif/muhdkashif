@@ -139,9 +139,10 @@ Integrates biometric attendance systems, RFID readers, and barcode scanners with
 ---
 
 ## 📬 Connect with me:
-- **GitHub:** [https://github.com/muhdkashif/]
-- **Mobile:** [+923002445229]
-- **Email:** [muhdkashif24@gmail.com]
+- **GitHub:** https://github.com/muhdkashif/
+- **Mobile:** +92 300 2445 229
+- **Email:** muhdkashif24@gmail.com
+
 ---
 
 💼 *Open for freelance projects, consulting, and collaborations — let’s build impactful business systems together!*
