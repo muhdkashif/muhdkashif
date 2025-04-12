@@ -63,7 +63,7 @@ A touch-optimized POS system for retail environments with barcode scanning, mult
 ---
 
 ### 5️⃣ Accounting Lite App (Ledger + Reports)  
-A simple double-entry accounting system for small businesses and freelancers. Manages income/expenses, ledgers, and generates Trial Balance, P&L, and Balance Sheet reports downloadable in PDF/Excel.
+A simple double-entry accounting system for small businesses. Manages income/expenses, ledgers, and generates Trial Balance, P&L, and Balance Sheet reports downloadable in PDF/Excel.
 
 **Core Features:**
 - Basic double-entry accounting system
